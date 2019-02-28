@@ -47,7 +47,6 @@ def get_data():
                         'url': p.a['href']
                         }
                 write_db(data)
-                #dldldldl
 
 
 get_data()
